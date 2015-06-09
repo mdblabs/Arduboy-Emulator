@@ -75,6 +75,7 @@ class Arduboy:
         pass
 
     #TODO: original fuctions to be implemented
+    #Test
     # void start();
     # void idle();
     #
